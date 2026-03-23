@@ -26,12 +26,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://astarrydeath.com" # the base hostname & protocol for your site, e.g. http://example.com
 domain: astarrydeath.com
 twitter_username:          astarrydeath
-github_username:           astarrydeath
-youtube_username:          astarrydeath
-steam_username:            astarrydeath
+github_username:           foognocchiee
+youtube_username:          foognocchiee
+steam_username:            foognocchiee
 lastfm_username:           astarrydeath
 instagram_username:        ericcarioca
-footerCredits:             Eric 'astarrydeath' Ernesto
+footerCredits:             Eric 'foognocchiee' Ernesto
 
 # localization
 languages: ["en", "pt-br"]
