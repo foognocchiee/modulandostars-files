@@ -13,5 +13,6 @@ Você pode me contatar de outras formas também, via [last.fm](https://www.last.
 - [Github - {{ site.github_username }}](https://github.com/{{ site.github_username }})
 - [Last.fm - {{ site.lastfm_username }}](https://last.fm/user/{{ site.lastfm_username }})
 - [Instagram - {{ site.instagram_username }}](https://instagram.com/{{ site.instagram_username }})
+- [Instagram (art) - {{ site.instagramArt_username }}]https://instagram.com/{{ site.instagramArt_username }}
 - [Steam - {{ site.steam_username }}](https://steamcommunity.com/id/{{ site.steam_username }})
 - [Youtube - {{ site.youtube_username }}](https://youtube.com/@{{ site.youtube_username }})
