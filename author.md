@@ -2,6 +2,8 @@
 layout: page
 title: About foognocchie
 permalink: /foognocchie/
+redirect_from: 
+    - /about/
 ---
 
 # About {{ site.username }} 
@@ -11,6 +13,6 @@ Redes Sociais tem ficado bem padronizado ultimamente, todos com um design pareci
 O meu plano é começar simples, contando sobre conteúdo de meu interesse, fazer uma lista de projetos e coisas que eu fiz!
 
 Sou um adolescente de 16 anos, residente em Rio de Janeiro, tenho muito interesse em música de rock e seus derivados (toco bateria até! :3), tecnologia, jogos e software também.
-Pretendo dar uma diminuida no uso de redes sociais já que têm me prejudicado mais que ajudado, por sinal eu acho muito bacana ter um site pra expor e ter autonomia da forma de se expressar* o que eu gosto :v
+Pretendo dar uma diminuida no uso de redes sociais já que têm me prejudicado mais que ajudado, por sinal eu acho muito bacana ter um site pra expor e *ter autonomia da forma de se expressar* o que eu gosto :v
 
 Este site foi feito usando [Jekyll](https://github.com/jekyll/jekyll) com layouts customizados de [Eggramen](https://eggramen.neocities.org/code/css/more/flisty), fonte usados de títulos "Octuple Max" by [deFharo](https://defharo.com/)

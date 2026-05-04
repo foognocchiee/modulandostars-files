@@ -45,7 +45,9 @@ default_locale_in_subfolder: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 #  - jekyll-multiple-languages-plugin
+
 
 defaults:
   -
